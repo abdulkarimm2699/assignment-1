@@ -1,0 +1,11 @@
+.paragraph{
+    width: 50%;
+}
+span{
+    color: brown;
+}
+.link{
+    background-color: rgb(253, 4, 58);
+    border: 10px 40px;
+    border-radius: 5px;
+}
