@@ -1,11 +1,29 @@
 .paragraph{
     width: 50%;
 }
+.paragraph img{
+    width: 100%;
+}
+section{
+    display: flex;
+}
 span{
-    color: brown;
+    color: rgb(255, 4, 4);
 }
 .link{
-    background-color: rgb(253, 4, 58);
-    border: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
     border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.illution1{
+    background-color: aqua;
+}
+.illution2{
+    background-color: bisque;
+}
+illution3{
+    background-color: blanchedalmond;
 }
